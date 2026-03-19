@@ -49,6 +49,8 @@ Frontend (Angular)
 
 ## 🎮 Flujo del juego
 
+![alt text](image-2.png)
+
 1. Host inicia juego  
 ![alt text](<Screenshot 2026-02-01 134010.png>)
 2. Se cargan preguntas  
@@ -78,6 +80,7 @@ Arquitectura moderna basada en:
 - Event-driven  
 - Tiempo real  
 
+![alt text](image-1.png)
 ---
 
 ## 👨‍💻 Autor
