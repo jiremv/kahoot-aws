@@ -79,4 +79,5 @@ Arquitectura moderna basada en:
 
 ## 👨‍💻 Autor
 
-Arquitectura Cloud AWS + Tiempo Real
+Paul Rivera
+AWS Certified Solutions Architect
