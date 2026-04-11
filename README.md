@@ -1,6 +1,5 @@
 # 🧠 Building a Real-Time Serverless Quiz Platform (Kahoot-style) on AWS  
 ### Arquitectura, decisiones y lecciones aprendidas
-https://github.com/jiremv/multiplayers (SourceCode)
 ---
 
 ## 🌍 Introducción
